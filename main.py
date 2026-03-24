@@ -144,7 +144,7 @@ def start(message):
         markup = telebot.types.InlineKeyboardMarkup()
         markup.add(telebot.types.InlineKeyboardButton("Join Channel", url=f"https://t.me/{FORCE_JOIN_CHANNEL}"))
         markup.add(telebot.types.InlineKeyboardButton("Joined", callback_data='reload'))
-        bot.reply_to(message, f"Please join \n @{FORCE_JOIN_CHANNEL} \n@PythonBotz\nTo use this bot.", reply_markup=markup)
+        bot.reply_to(message, f"Please join \n @{FORCE_JOIN_CHANNEL} \n @botsarefather\nTo use this bot.", reply_markup=markup)
         return
 
     add_user(user_id)  # Add user to the list
@@ -266,7 +266,7 @@ def help_callback(call):
     help_text = "Here's how you can use this bot:\n\n"
     help_text += "/getmeth <username> - Analyze an Instagram profile.\n"
     help_text += "Make sure you are a member of the channel to use this bot."
-    help_text += "Message @metaui to buy latest & working tools 🎉"
+    help_text += "Message @itsukiarai to buy latest & working tools 🎉"
     
     # Escape special characters for MarkdownV2
     help_text = escape_markdown_v2(help_text)
