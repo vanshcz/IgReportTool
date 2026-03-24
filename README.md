@@ -90,9 +90,9 @@ Command	Description
 /restart	🔄 Reset bot uptime (Admin only)
 </div><p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 📞 Contact & Support
-<p align="center"> <a href="https://t.me/metaui"> <img src="https://img.shields.io/badge/Telegram-Contact%20Developer-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://t.me/botsarefather"> <img src="https://img.shields.io/badge/Telegram-Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support"> </a> </p><div align="center">
+<p align="center"> <a href="https://t.me/itsukiarai"> <img src="https://img.shields.io/badge/Telegram-Contact%20Developer-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://t.me/botsarefather"> <img src="https://img.shields.io/badge/Telegram-Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support"> </a> </p><div align="center">
 💬 Need Help or Premium Services?
-Contact on Telegram: @metaui
+Contact on Telegram: @itsukiarai
 
 Support Channel: @botsarefather
 
